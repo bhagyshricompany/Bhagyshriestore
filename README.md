@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Bhagyshriestore
+React Project Fundamentals, Router, Context API, Hooks, Redux, Redux-Toolkit, HTTP &amp; REST API calls, React with TypeScript etc
+>>>>>>> 19169ac1bee0ea31db9cb03c0afdd8634631659e
